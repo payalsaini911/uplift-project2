@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel slide{
+    height: 300px;
+}
+.carousel-item{
+    height: 300px;
+}
+.container{
+    margin-top: 50px;
+}
+.container-fluid{
+    background-color: rgba(122, 124, 243, 0.274);
+}
+.navbar-brand{
+    color: white;
+    background-color: rgba(14, 10, 83, 0.219);
+}
+.navbar-brand:hover{
+    color: white;
+    background-color: rgba(2, 33, 58, 0.637);
+    
+}
+.nav-link{
+    color: white;
+    background-color: rgba(14, 10, 83, 0.219);
+}
+.nav-link:hover{
+    color: white;
+    background-color: rgba(2, 33, 58, 0.637);
+}
